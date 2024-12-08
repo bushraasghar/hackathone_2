@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shop{
+    display: flex;
+    justify-content: center;
+}
+
+
+#about{
+    display: flex;
+    justify-content: center;
+}
